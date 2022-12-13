@@ -13,7 +13,7 @@
 
 
 ### Frontend 
-- [react](https://reactjs.org/) - main ui library.
-- [nextjs](https://nextjs.org/) - main ui framwork.
-  **UI Library**
-- [antd](https://ant.design/) - primary ui library. 
+- [React](https://reactjs.org/) - main ui library.
+- [Nextjs](https://nextjs.org/) - main ui framwork.
+#### UI Design
+- [Antd](https://ant.design/) - primary ui library. 
