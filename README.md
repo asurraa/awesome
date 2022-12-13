@@ -14,4 +14,5 @@
 
 ### Frontend 
 - [react](https://reactjs.org/) - main ui library
-- [nextjs](https://nextjs.org/) - main ui framwork
+- [nextjs](https://nextjs.org/) - main ui framework
+- [mantine](https://mantine.dev/) - secondary ui framework
